@@ -1,0 +1,14 @@
+Freescale Cup of Intelligent Car Racing.
+-	Camera OV7620
+-	Two servo, one for front-wheel, another for camera.
+-	DC Motor 7.4V
+
+Average speed: 2 m/s
+
+Use Codewarrior IDE V5.0
+
+	- Zhongyao.Zhao
+by	- Shixiong.Guo           at HITHD, 2009
+	- Yiran.Liao (Librae)
+            librae8226@gmail.com
+

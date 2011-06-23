@@ -1,0 +1,7 @@
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "MCUInit.c::campos"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "MCUInit.c::blackposavg"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "MCUInit.c::_ATD0DR2.Word"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "test"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "counter_left"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "counter_right"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "aa"
